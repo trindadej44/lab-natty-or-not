@@ -49,6 +49,8 @@ superados e a conquista desse objetivo ambicioso pode se tornar realidade.
 Colonizar Marte seria um marco histórico para a humanidade, representando um passo gigante em nossa jornada espacial e na busca por um futuro melhor para a nossa espécie.
 É um sonho que pode se tornar realidade, abrindo portas para um futuro promissor e cheio de possibilidades.
 
+<img src="/exemplos/colonizando-marte-1.webp">
+
 ## 💭 Reflexão (Opcional)
 Este projeto demonstra como as tecnologias de inteligência artificial podem ser utilizadas para criar conteúdo de forma eficiente. Ao combinar o texto gerado pela IA Gemini
 com as imagens da IA Night Café, pude criar um projeto visualmente interessante. No entanto, é importante considerar as questões éticas envolvidas, como a autenticidade do
