@@ -49,9 +49,10 @@ superados e a conquista desse objetivo ambicioso pode se tornar realidade.
 Colonizar Marte seria um marco histórico para a humanidade, representando um passo gigante em nossa jornada espacial e na busca por um futuro melhor para a nossa espécie.
 É um sonho que pode se tornar realidade, abrindo portas para um futuro promissor e cheio de possibilidades.
 
-[Imagem 1](https://creator.nightcafe.studio/creation/UdN3WHuKSG1UnlOafj15?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33)
-[Imagem 2](https://creator.nightcafe.studio/creation/52prEAzeO4aAkehLfUh5?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33)
-[Imagem 3](https://creator.nightcafe.studio/creation/J3KrO8l4phY7qXzO1pfw?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33)
+`https://creator.nightcafe.studio/creation/UdN3WHuKSG1UnlOafj15?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33`
+`https://creator.nightcafe.studio/creation/52prEAzeO4aAkehLfUh5?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33`
+`https://creator.nightcafe.studio/creation/J3KrO8l4phY7qXzO1pfw?ru=KGj6pK3XAGO7hQ3Pr1CZYpRfKJ33`
+
 
 ## 💭 Reflexão (Opcional)
 Este projeto demonstra como as tecnologias de inteligência artificial podem ser utilizadas para criar conteúdo de forma eficiente. Ao combinar o texto gerado pela IA Gemini
